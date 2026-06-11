@@ -65,3 +65,14 @@ Olá! Me chamo Vitor de Castro Bernardes. Tenho 21 anos e faço faculdade de Tec
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorbernardes-tech&layout=compact&theme=onedark&langs_count=8&card_width=320" />
 </a>
 
+
+##
+
+
+  <a href="mailto:vitorbernardes743@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail de Contato">
+  </a>
+  <a href="https://www.linkedin.com/in/vitor-castro-" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>

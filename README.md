@@ -66,3 +66,4 @@ Olá! Me chamo Vitor de Castro Bernardes. Tenho 21 anos e faço faculdade de Tec
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+

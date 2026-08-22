@@ -37,11 +37,11 @@ Olá! Me chamo Vitor de Castro Bernardes. Tenho 21 anos e faço faculdade de Tec
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Flask" 
+    title="Flask"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" 
 />
 <img 
     align="left" 
@@ -50,6 +50,22 @@ Olá! Me chamo Vitor de Castro Bernardes. Tenho 21 anos e faço faculdade de Tec
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" 
+/>
+<img 
+    align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" 
 />
 
 <br/>

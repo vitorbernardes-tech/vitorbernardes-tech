@@ -108,6 +108,7 @@ Olá! Tenho 21 anos, moro em São Paulo, SP, e sou um desenvolvedor em formaçã
   </picture>
 </div>
 
+
 <br>
 
 <div align="center">

@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDE100,100:1a1a1a&height=250&section=header&text=Vitor%20de%20Castro%20Bernardes&fontSize=45&fontAlignY=35&desc=Back-end%20Developer%20&%20Software%20Engineering%20Student&descAlignY=55&descSize=20&fontColor=000000" alt="Banner Vitor de Castro Bernardes" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDE100,100:1a1a1a&height=250&section=header&text=Vitor%20de%20Castro%20Bernardes&fontSize=45&fontAlignY=35&desc=Front-end%20Developer%20&%20Software%20Engineering%20Student&descAlignY=55&descSize=20&fontColor=000000" alt="Banner Vitor de Castro Bernardes" />
 
   <br>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FDE100&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end;Estudante+de+TI+na+UNIVESP;Construindo+APIs+e+Sistemas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FDE100&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-end;Estudante+de+TI+na+UNIVESP;Construindo+APIs+e+Sistemas" alt="Typing SVG" />
 
   <br><br>
 

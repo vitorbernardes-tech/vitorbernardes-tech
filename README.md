@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDE100,100:1a1a1a&height=250&section=header&text=Vitor%20de%20Castro%20Bernardes&fontSize=45&fontAlignY=35&desc=Back-end%20Developer%20&%20Software%20Engineering%20Student&descAlignY=55&descSize=20&fontColor=000000" alt="Banner Vitor de Castro Bernardes" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDE100,100:1a1a1a&height=250&section=header&text=Vitor%20de%20Castro%20Bernardes&fontSize=45&fontAlignY=35&desc=Front-end%20Developer%20&%20Software%20Engineering%20Student&descAlignY=55&descSize=20&fontColor=000000" alt="Banner Vitor de Castro Bernardes" />
 
   <br>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FDE100&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end;Estudante+de+TI+na+UNIVESP;Construindo+APIs+e+Sistemas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FDE100&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-end;Estudante+de+TI+na+UNIVESP;Construindo+APIs+e+Sistemas+Web" alt="Typing SVG" />
 
   <br><br>
 
@@ -15,10 +15,10 @@
 
 ## 👨‍💻 Sobre Mim
 
-Olá! Tenho 21 anos, moro em São Paulo, SP, e sou um desenvolvedor em formação apaixonado por arquitetura de software, modelagem de dados e resolução de problemas no lado do servidor. Atualmente, busco minha primeira oportunidade de estágio em desenvolvimento Back-end.
+Olá! Tenho 21 anos, moro em São Paulo, SP, e sou um desenvolvedor em formação apaixonado por arquitetura de software, modelagem de dados e resolução de problemas no lado do servidor. Atualmente, busco minha primeira oportunidade de estágio em desenvolvimento Front-end.
 
 - 🎓 Graduando em **Bacharelado em Tecnologia da Informação** pela **UNIVESP** (Previsão: meados de 2028).
-- 🛠️ Foco em **Desenvolvimento Back-end**, construindo aplicações RESTful, integrando APIs e desenhando bancos de dados relacionais.
+- 🛠️ Foco em **Desenvolvimento Front-end**, construindo aplicações Web, e fazendo sites responsivos.
 - 🗣️ Atualmente aprimorando meu **Inglês (Pré-intermediário)**.
 - 🏋️‍♂️ Quando não estou codando, você me encontra treinando na academia, jogando futebol com os amigos ou imerso em livros de ação, suspense e clássicos.
 

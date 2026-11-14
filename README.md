@@ -17,7 +17,7 @@
 
 Olá! Tenho 21 anos, moro em São Paulo, SP, e sou um desenvolvedor em formação apaixonado por arquitetura de software, modelagem de dados e resolução de problemas no lado do servidor. Atualmente, busco minha primeira oportunidade de estágio em desenvolvimento Front-end.
 
-- 🎓 Graduando em **Bacharelado em Tecnologia da Informação** pela **UNIVESP** (Previsão: meados de 2028).
+- 🎓 Graduando em **Bacharelado em Tecnologia da Informação** pela **UNIVESP** (Previsão: Junho de 2028).
 - 🛠️ Foco em **Desenvolvimento Front-end**, construindo aplicações Web, e fazendo sites responsivos.
 - 🗣️ Atualmente aprimorando meu **Inglês (Pré-intermediário)**.
 - 🏋️‍♂️ Quando não estou codando, você me encontra treinando na academia, jogando futebol com os amigos ou imerso em livros de ação, suspense e clássicos.
